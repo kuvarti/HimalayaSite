@@ -27,7 +27,7 @@ bmag<br>
 
 Siteyi hazırlarken kullanılan diller/teknolojiler: PHP, HTML/CSS, JavaScript/JQuery ve MySQL'dir.<br>
 <br>Sitedeki iş paylaşımı:<br>
-Ahmet Eryılmaz: Sitenin Sepete ürün ekleme fonksiyonu ve tüm MySQL sorguları.<br>
+Ahmet Eryılmaz: Sitenin Sepete ürün ekleme fonksiyonu, Veritabanı ve tüm MySQL sorguları.<br>
 Sinan Kerim Çalışkan: Sitenin statik tasarımı ve arka planda çalışan dinamik fonksiyonlar(sepete ürün ekleme dışında)<br>
 <br>
 Sitenin yapımına 16.05.2021'de başlanmış 25.05.2021'de bitirilmiştir.
