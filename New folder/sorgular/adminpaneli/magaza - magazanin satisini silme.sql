@@ -1,1 +1,0 @@
-delete from satis where satisid=0
