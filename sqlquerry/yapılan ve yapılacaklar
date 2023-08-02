@@ -1,0 +1,37 @@
+yapılanlar 
++kullanıcı girisi
++kullanicikayitekleme
++searchbarsql
++urunların rating ortalaması
++mysql kurulum
++siteyi php ile ayarlanabilir 
++urun yorumlerını getirecek sorgu
++magaza yorttumlarını getirecek sorgu
++ürün girme
++kullanıcı tablosuna adres ekle ++ onları : 'kad, eposta, adres' getiren sql sorgusu yaz
++kullanıcı ve satis arasında bir tablo daha oluştur (sepet için)
++sepet listeleme ve sepete ekleme sqli
+
+yapılacaklar
++admin panelindeki listeyi full dinamik hale getirmek //https://mariadb.com/kb/en/show-columns/ [SHOW COLUMNS FROM mydb.mytable;]
++mağaza admin panel
++duruma göre border renk değiştirme
+
+
+Hocam Merhaba, Üstte gördüğünüz likteki sitede yer alan bütün dosyalar 193532025-AhmetERYILMAZ ve 193532028-SinanKerimÇALIŞKAN tarafından yazılıp düzenlenmiştir. Yapılan iş bölümünde bir grup arkadaşımız üstüne düşeni yapmayıp,'Sonuçta ödevi sadece pdf olarak yükleyecez bişeler yapıp süsleyip gönderirim' diyerek bize hiçbir dosya veya kod göndermeyip son hafta iş yükümüzü de 2 katına çıkarmıştır. Dolayısıyla bu grup projesinin kodları yalnızca AhmetERYILMAZ ve SinanKerimÇALIŞKAN tarafından yapılmıştır. 
+
+Grubumuzda konuşulan iş paylaşımına göre; 
+Ahmet ERYILMAZ - Veri tabanı ve sitede yer alan tüm SQL sorguları.
+Sinan Kerim ÇALIŞKAN - Sitenin bütün UI(kullanıcı arayüzü) ve arama sayfasındaki php ve mysql tabanlı dinamik yapılandırma.
+Ertuğrul SAKA - Sitede veritabanından gelen verilerin dinamik olarak sayfalarda görüntülenmesi.
+Metehan KARA - Siteye veri girişi yapılması.
+
+konusunda anlaşmıştık. Fakat Ertuğrul SAKA son haftaya kadar üzerine düşeni yapmadığı için site tamamlanmamış ve grubun kalan üyelerini zor duruma sokmuştur. Bunun üzerine Ahmet ERYILMAZ ve Sinan Kerim ÇALIŞKAN olarak kalan işleri kendı aramızda paylaştık, ve kendimiz yaptık
+
+Bilginize..
+
+
+
+//Veri girişleri xxxxx numaralı MetehanKARA tarafından yapılmıştır.
+
+ ve haliyle artan iş yüküyle birlikte sitenin tamalanması gecikmiş ve Metehan KARA'nında veri ekleme görevi sekteye uğratılmıştır.

@@ -1,0 +1,1 @@
+select durum from durum 

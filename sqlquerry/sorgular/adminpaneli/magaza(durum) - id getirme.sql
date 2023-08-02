@@ -1,0 +1,1 @@
+select id from durum where durum='<durumadı>'

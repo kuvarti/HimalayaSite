@@ -1,0 +1,1 @@
+INSERT INTO urun(uid, uisim, umarka, kategori_id, hakkinda, resim) values(null, '0', '0', 0, '0', '0'); /*Hata verebilir emin değilim*/
